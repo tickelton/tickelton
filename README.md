@@ -1,4 +1,4 @@
-<code></pre>
+<pre>
                               ,;\JohKRgN##g8OhoJ|;,                                
                      ~  ,=fOQ@@@@@@@@@@@@@@@@@@@@@@@Nec:                           
                    ^W68@@@@@@@@OoQB6]/>;:::;=vQ]#@@@@@@@@8]:                       
@@ -36,7 +36,7 @@
                        -r]HQ@@HQ@@@@@@h@@@@@@@@@@@@@@@@@@QWPJ=:`                   
                             .:=e@@@PqHD@@@@@@QQND9efi=;,`                          
                                ,Wo-                                                
-</pre></code>
+</pre>
 <!--
 **tickelton/tickelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
